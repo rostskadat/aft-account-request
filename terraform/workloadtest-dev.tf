@@ -8,7 +8,7 @@ module "workloadtest-dev" {
   control_tower_parameters = {
     AccountEmail              = "rostskadat+aws+workloadtest-dev@gmail.com"
     AccountName               = "workloadtest-dev"
-    ManagedOrganizationalUnit = "Workloads (ou-coor-3bcxcgyc)"
+    ManagedOrganizationalUnit = "Workloads (ou-07lw-7tzd85ut)"
     SSOUserEmail              = "noreply@example.com"
     SSOUserFirstName          = "Default User"
     SSOUserLastName           = "Control Tower"
